@@ -1,0 +1,26 @@
+{
+  "google_rating": "4.9/5",
+  "total_reviews": "93+",
+  "restaurant_guru_rating": "4.9/5",
+  "tripadvisor_rating": "5.0/5",
+  "reviews": [
+    {
+      "author": "Restaurant Guru User",
+      "rating": 5,
+      "text": "Tasty ice cream, croissants and cannoli. Great iced coffee, cappuccino and iced latte.",
+      "date": "2024"
+    },
+    {
+      "author": "Nicelocal User",
+      "rating": 5,
+      "text": "100% natural, vegan, lactose & gluten-free ice cream in Berlin Prenzlauer Berg",
+      "date": "2024"
+    },
+    {
+      "author": "Google Maps User",
+      "rating": 5,
+      "text": "Delicious artisanal gelato with authentic Italian flavors. The quality is outstanding!",
+      "date": "2024"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "price_range": "€1-10",
+  "categories": [
+    {
+      "name": "Gelato",
+      "description": "100% natural, artisanal Italian gelato",
+      "items": [
+        {
+          "name": "Artisanal Gelato",
+          "description": "Vegan, lactose & gluten-free options available",
+          "price": "€3-5",
+          "features": ["Natural", "Vegan Options", "Gluten-Free", "Lactose-Free"]
+        }
+      ]
+    },
+    {
+      "name": "Coffee & Drinks",
+      "items": [
+        {
+          "name": "Cappuccino",
+          "description": "Traditional Italian cappuccino",
+          "price": "€3-4"
+        },
+        {
+          "name": "Iced Coffee",
+          "description": "Refreshing iced coffee",
+          "price": "€3-4"
+        },
+        {
+          "name": "Iced Latte",
+          "description": "Smooth iced latte",
+          "price": "€3-4"
+        }
+      ]
+    },
+    {
+      "name": "Pastries",
+      "items": [
+        {
+          "name": "Croissants",
+          "description": "Fresh, flaky croissants",
+          "price": "€2-3"
+        },
+        {
+          "name": "Cannoli",
+          "description": "Traditional Italian cannoli",
+          "price": "€3-4"
+        }
+      ]
+    }
+  ]
+}
